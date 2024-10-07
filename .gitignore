@@ -1,0 +1,9 @@
+# Editor directories and files
+.git
+
+# Google Drive
+.tmp.driveupload
+
+# Proteus 8
+Project Backups
+*.workspace
